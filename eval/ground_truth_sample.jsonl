@@ -1,0 +1,3 @@
+{"query": "Hiring a mid-level Java developer", "ground_truth": ["Java 8 (New)", "JavaScript (New)"]}
+{"query": "Hiring a sales manager", "ground_truth": ["OPQ32r", "Situational Judgement (Sales)"]}
+{"query": "Need a numerical reasoning test for graduates", "ground_truth": ["Verify Numerical Reasoning"]}

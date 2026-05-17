@@ -1,0 +1,150 @@
+{"query": "Hiring a entry-level hiring manager — what assessments should I use?", "ground_truth": ["Contact Center Simulation", "Automata - Fix the Code"]}
+{"query": "Hiring a graduate software developer — what assessments should I use?", "ground_truth": ["JavaScript (New)", "C++ (New)"]}
+{"query": "Hiring a graduate graduate analyst — what assessments should I use?", "ground_truth": ["General Ability Test (GAT)", "Technology Professional 8.0 - Short Form"]}
+{"query": "Hiring a professional graduate analyst — what assessments should I use?", "ground_truth": ["Verify Interactive - Inductive Reasoning", "Verify Verbal Reasoning"]}
+{"query": "Hiring a graduate graduate analyst — what assessments should I use?", "ground_truth": ["Verify Deductive Reasoning", "Verify Checking"]}
+{"query": "Hiring a entry-level hiring manager — what assessments should I use?", "ground_truth": ["Situational Judgement Test - Customer Service", "Situational Judgement Test - Graduate"]}
+{"query": "Hiring a entry-level engineer — what assessments should I use?", "ground_truth": ["Typing Speed and Accuracy", "ADO.NET (New)"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Spring Framework (New)", "Technology Professional 8.0 - Short Form"]}
+{"query": "Hiring a manager sales manager — what assessments should I use?", "ground_truth": ["OPQ32 (n)", "Universal Competency Framework (UCF)"]}
+{"query": "Hiring a professional software developer — what assessments should I use?", "ground_truth": [".NET XAML (New)", ".NET MVC (New)"]}
+{"query": "Hiring a professional sales manager — what assessments should I use?", "ground_truth": ["Universal Competency Framework (UCF)", "OPQ32 (n)"]}
+{"query": "Hiring a professional graduate analyst — what assessments should I use?", "ground_truth": ["Verify Interactive - Inductive Reasoning", "Verify Deductive Reasoning"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["C++ (New)", "Automata Pro"]}
+{"query": "Hiring a professional software developer — what assessments should I use?", "ground_truth": ["Core Java (Advanced Level)", "English Language Assessment"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Hibernate (New)", "Angular (New)"]}
+{"query": "Hiring a professional graduate analyst — what assessments should I use?", "ground_truth": ["Verify Interactive - Verbal Reasoning", "Verify Interactive - Deductive Reasoning"]}
+{"query": "Hiring a clerical hiring manager — what assessments should I use?", "ground_truth": ["Accounts Receivable Simulation (New)", "Call Centre Simulation"]}
+{"query": "Hiring a clerical graduate analyst — what assessments should I use?", "ground_truth": ["Verify Calculation", "Verify Checking"]}
+{"query": "Hiring a professional software developer — what assessments should I use?", "ground_truth": [".NET (New)", "C++ (New)"]}
+{"query": "Hiring a manager graduate analyst — what assessments should I use?", "ground_truth": ["Verify Interactive - Deductive Reasoning", "Verify Calculation"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Hibernate (New)", ".NET MVVM (New)"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["PHP (New)", ".NET XAML (New)"]}
+{"query": "Hiring a graduate software developer — what assessments should I use?", "ground_truth": ["Python (New)", "Automata Pro"]}
+{"query": "Hiring a entry-level hiring manager — what assessments should I use?", "ground_truth": ["Contact Center Simulation", "MFS - Inbox Simulation"]}
+{"query": "Hiring a supervisor hiring manager — what assessments should I use?", "ground_truth": ["Supervisory Practices Inventory (SPI)", "Global Skills Development Report"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Ruby (New)", "Accounts Receivable (New)"]}
+{"query": "Hiring a clerical engineer — what assessments should I use?", "ground_truth": ["Accounts Receivable (New)", "Microsoft PowerPoint (Office 2019)"]}
+{"query": "Hiring a professional software developer — what assessments should I use?", "ground_truth": [".NET WCF (New)", "C++ (New)"]}
+{"query": "Hiring a manager graduate analyst — what assessments should I use?", "ground_truth": ["Verify G+ Cognitive Ability", "Mechanical Comprehension"]}
+{"query": "Hiring a graduate software developer — what assessments should I use?", "ground_truth": ["Python (New)", "ADO.NET (New)"]}
+{"query": "Hiring a professional hiring manager — what assessments should I use?", "ground_truth": ["Accounts Payable Simulation (New)", "Automata Pro"]}
+{"query": "Hiring a entry-level engineer — what assessments should I use?", "ground_truth": ["Typing Speed and Accuracy", "React (New)"]}
+{"query": "Hiring a frontline hiring manager — what assessments should I use?", "ground_truth": ["Call Centre Simulation", "Automata Pro"]}
+{"query": "Hiring a professional software developer — what assessments should I use?", "ground_truth": ["Core Java (Advanced Level)", "C (New)"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Accounts Receivable (New)", "AWS (New)"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Angular (New)", "HTML/CSS (New)"]}
+{"query": "Hiring a manager hiring manager — what assessments should I use?", "ground_truth": ["Situational Judgement Test - Manager", "Global Skills Development Report"]}
+{"query": "Hiring a graduate graduate analyst — what assessments should I use?", "ground_truth": ["Verify Interactive - Inductive Reasoning", "Verify Deductive Reasoning"]}
+{"query": "Hiring a professional sales manager — what assessments should I use?", "ground_truth": ["OPQ32r", "Universal Competency Framework (UCF)"]}
+{"query": "Hiring a clerical engineer — what assessments should I use?", "ground_truth": ["Microsoft PowerPoint (Office 2019)", "Angular (New)"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Ruby (New)", "Agile (New)"]}
+{"query": "Hiring a graduate software developer — what assessments should I use?", "ground_truth": ["Java 8 (New)", "Microsoft PowerPoint (Office 2019)"]}
+{"query": "Hiring a professional graduate analyst — what assessments should I use?", "ground_truth": ["Spatial Reasoning", "Verify Interactive - Verbal Reasoning"]}
+{"query": "Hiring a professional graduate analyst — what assessments should I use?", "ground_truth": ["Spatial Reasoning", "Mechanical Comprehension"]}
+{"query": "Hiring a professional sales manager — what assessments should I use?", "ground_truth": ["OPQ32 (n)", "OPQ32r"]}
+{"query": "Hiring a professional software developer — what assessments should I use?", "ground_truth": ["Core Java (Advanced Level)", "Selenium (New)"]}
+{"query": "Hiring a professional graduate analyst — what assessments should I use?", "ground_truth": ["Mechanical Comprehension", "General Ability Test (GAT)"]}
+{"query": "Hiring a clerical engineer — what assessments should I use?", "ground_truth": ["Workplace English (Business Writing)", ".NET MVC (New)"]}
+{"query": "Hiring a graduate engineer — what assessments should I use?", "ground_truth": ["PHP (New)", "Data Analysis (New)"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["AWS (New)", "Automata Pro"]}
+{"query": "Hiring a professional software developer — what assessments should I use?", "ground_truth": [".NET WCF (New)", "Occupational Safety (Safety 7.1)"]}
+{"query": "Hiring a professional graduate analyst — what assessments should I use?", "ground_truth": ["Spatial Reasoning", "Verify Interactive - Numerical Reasoning"]}
+{"query": "Hiring a graduate hiring manager — what assessments should I use?", "ground_truth": ["Situational Judgement Test - Graduate", "Situational Judgement Test - Customer Service"]}
+{"query": "Hiring a clerical hiring manager — what assessments should I use?", "ground_truth": ["Accounts Payable Simulation (New)", "Automata - Fix the Code"]}
+{"query": "Hiring a mid-professional engineer — what assessments should I use?", "ground_truth": ["Manual Testing (New)", "Data Analysis (New)"]}
+{"query": "Hiring a manager graduate analyst — what assessments should I use?", "ground_truth": ["Managerial & Professional Short Form 8.0", "Graduate 8.0 Short Form"]}
+{"query": "Hiring a clerical engineer — what assessments should I use?", "ground_truth": ["Accounts Payable (New)", "C (New)"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["AWS (New)", ".NET XAML (New)"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Automata Pro", "Microsoft PowerPoint (Office 2019)"]}
+{"query": "Hiring a professional software developer — what assessments should I use?", "ground_truth": [".NET MVC (New)", "Microsoft Word (Office 2019)"]}
+{"query": "Hiring a entry-level engineer — what assessments should I use?", "ground_truth": ["Typing Speed and Accuracy", "Hibernate (New)"]}
+{"query": "Hiring a professional data analyst — what assessments should I use?", "ground_truth": ["Machine Learning (New)", ".NET (New)"]}
+{"query": "Hiring a supervisor hiring manager — what assessments should I use?", "ground_truth": ["Supervisory Practices Inventory (SPI)", "Situational Judgement Test - Manager"]}
+{"query": "Hiring a professional software developer — what assessments should I use?", "ground_truth": [".NET XAML (New)", "Automata - Fix the Code"]}
+{"query": "Hiring a clerical engineer — what assessments should I use?", "ground_truth": ["Accounts Payable (New)", "AWS (New)"]}
+{"query": "Hiring a manager hiring manager — what assessments should I use?", "ground_truth": ["Situational Judgement Test - Manager", "Situational Judgement Test - Customer Service"]}
+{"query": "Hiring a manager sales manager — what assessments should I use?", "ground_truth": ["Global Skills Development Report", "Spatial Reasoning"]}
+{"query": "Hiring a clerical graduate analyst — what assessments should I use?", "ground_truth": ["Verify Calculation", "Verify Interactive - Inductive Reasoning"]}
+{"query": "Hiring a graduate graduate analyst — what assessments should I use?", "ground_truth": ["Verify Interactive - Numerical Reasoning", "Verify Calculation"]}
+{"query": "Hiring a mid-professional engineer — what assessments should I use?", "ground_truth": ["Manual Testing (New)", "Data Analysis (New)"]}
+{"query": "Hiring a professional graduate analyst — what assessments should I use?", "ground_truth": ["Managerial & Professional Short Form 8.0", "Verify Checking"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Oracle (New)", ".NET WPF (New)"]}
+{"query": "Hiring a professional graduate analyst — what assessments should I use?", "ground_truth": ["Verify Interactive - Deductive Reasoning", "Spatial Reasoning"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["C++ (New)", "Spring Framework (New)"]}
+{"query": "Hiring a graduate software developer — what assessments should I use?", "ground_truth": ["MySQL (New)", "Microsoft PowerPoint (Office 2019)"]}
+{"query": "Hiring a clerical engineer — what assessments should I use?", "ground_truth": ["Typing Speed and Accuracy", "Core Java (Advanced Level)"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Android (New)", "SQL (New)"]}
+{"query": "Hiring a supervisor hiring manager — what assessments should I use?", "ground_truth": ["Supervisory Practices Inventory (SPI)", "Situational Judgement Test - Customer Service"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Automata - Fix the Code", ".NET Framework 4.5"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Angular (New)", "PHP (New)"]}
+{"query": "Hiring a graduate software developer — what assessments should I use?", "ground_truth": ["MySQL (New)", "Python (New)"]}
+{"query": "Hiring a graduate engineer — what assessments should I use?", "ground_truth": ["Node.js (New)", "Core Java (Advanced Level)"]}
+{"query": "Hiring a clerical engineer — what assessments should I use?", "ground_truth": ["Typing Speed and Accuracy", "JavaScript (New)"]}
+{"query": "Hiring a graduate hiring manager — what assessments should I use?", "ground_truth": ["Situational Judgement Test - Graduate", "Global Skills Development Report"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Manual Testing (New)", ".NET XAML (New)"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Android (New)", ".NET MVVM (New)"]}
+{"query": "Hiring a graduate engineer — what assessments should I use?", "ground_truth": ["Ruby (New)", "React (New)"]}
+{"query": "Hiring a senior software developer — what assessments should I use?", "ground_truth": ["Core Java (Advanced Level)", "Scala (New)"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Angular (New)", ".NET MVC (New)"]}
+{"query": "Hiring a professional sales manager — what assessments should I use?", "ground_truth": ["Remote Worker Personality Questionnaire", "Sales Styles Questionnaire"]}
+{"query": "Hiring a clerical graduate analyst — what assessments should I use?", "ground_truth": ["Verify Checking", "Verify Interactive - Inductive Reasoning"]}
+{"query": "Hiring a clerical graduate analyst — what assessments should I use?", "ground_truth": ["Verify Checking", "Global Skills Development Report"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Unix/Linux (New)", "Core Java (Advanced Level)"]}
+{"query": "Hiring a graduate data analyst — what assessments should I use?", "ground_truth": ["Data Analysis (New)", ".NET WCF (New)"]}
+{"query": "Hiring a clerical graduate analyst — what assessments should I use?", "ground_truth": ["Verify Calculation", "Verify Checking"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Android (New)", "AWS (New)"]}
+{"query": "Hiring a supervisor hiring manager — what assessments should I use?", "ground_truth": ["Supervisory Practices Inventory (SPI)", "Situational Judgement Test - Manager"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["HTML/CSS (New)", "C (New)"]}
+{"query": "Hiring a frontline engineer — what assessments should I use?", "ground_truth": ["Occupational Safety (Safety 7.1)", ".NET MVC (New)"]}
+{"query": "Hiring a senior software developer — what assessments should I use?", "ground_truth": ["Core Java (Advanced Level)", ".NET MVC (New)"]}
+{"query": "Hiring a frontline hiring manager — what assessments should I use?", "ground_truth": ["Call Centre Simulation", "Accounts Receivable Simulation (New)"]}
+{"query": "Hiring a professional software developer — what assessments should I use?", "ground_truth": [".NET MVVM (New)", "Technology Professional 8.0 - Short Form"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Hibernate (New)", "Python (New)"]}
+{"query": "Hiring a graduate engineer — what assessments should I use?", "ground_truth": ["Automata - Fix the Code", "Manual Testing (New)"]}
+{"query": "Hiring a professional software developer — what assessments should I use?", "ground_truth": ["Core Java (Advanced Level)", "HTML/CSS (New)"]}
+{"query": "Hiring a clerical graduate analyst — what assessments should I use?", "ground_truth": ["Verify Calculation", "Verify Interactive - Deductive Reasoning"]}
+{"query": "Hiring a graduate software developer — what assessments should I use?", "ground_truth": ["SQL (New)", "MySQL (New)"]}
+{"query": "Hiring a senior engineer — what assessments should I use?", "ground_truth": ["Automata Pro", "Accounts Payable (New)"]}
+{"query": "Hiring a clerical engineer — what assessments should I use?", "ground_truth": ["Typing Speed and Accuracy", "Microsoft Excel (Office 2019)"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Accounts Payable (New)", "Microsoft Word (Office 2019)"]}
+{"query": "Hiring a operator graduate analyst — what assessments should I use?", "ground_truth": ["Mechanical Comprehension", "Verify Calculation"]}
+{"query": "Hiring a graduate graduate analyst — what assessments should I use?", "ground_truth": ["Spatial Reasoning", "Technology Professional 8.0 - Short Form"]}
+{"query": "Hiring a manager sales manager — what assessments should I use?", "ground_truth": ["OPQ32r", "Dependability & Safety Instrument (DSI)"]}
+{"query": "Hiring a clerical engineer — what assessments should I use?", "ground_truth": ["Workplace English (Business Writing)", "Typing Speed and Accuracy"]}
+{"query": "Hiring a professional software developer — what assessments should I use?", "ground_truth": [".NET XAML (New)", "Microsoft PowerPoint (Office 2019)"]}
+{"query": "Hiring a frontline hiring manager — what assessments should I use?", "ground_truth": ["Contact Center Simulation", "MFS - Inbox Simulation"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Manual Testing (New)", "Core Java (Advanced Level)"]}
+{"query": "Hiring a professional graduate analyst — what assessments should I use?", "ground_truth": ["Verify Interactive - Inductive Reasoning", "Verify Calculation"]}
+{"query": "Hiring a entry-level graduate analyst — what assessments should I use?", "ground_truth": ["Verify Numerical Ability", "Verify Interactive - Inductive Reasoning"]}
+{"query": "Hiring a professional graduate analyst — what assessments should I use?", "ground_truth": ["Managerial & Professional Short Form 8.0", "Verify Numerical Ability"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Node.js (New)", "Machine Learning (New)"]}
+{"query": "Hiring a graduate graduate analyst — what assessments should I use?", "ground_truth": ["Verify Verbal Reasoning", "Verify Deductive Reasoning"]}
+{"query": "Hiring a graduate sales manager — what assessments should I use?", "ground_truth": ["OPQ32r", "Occupational Safety (Safety 7.1)"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Microsoft Excel (Office 2019)", ".NET MVC (New)"]}
+{"query": "Hiring a graduate engineer — what assessments should I use?", "ground_truth": ["React (New)", "Java 8 (New)"]}
+{"query": "Hiring a professional software developer — what assessments should I use?", "ground_truth": [".NET MVC (New)", "Java 8 (New)"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["C++ (New)", "Microsoft PowerPoint (Office 2019)"]}
+{"query": "Hiring a supervisor hiring manager — what assessments should I use?", "ground_truth": ["Supervisory Practices Inventory (SPI)", "Situational Judgement Test - Graduate"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Accounts Receivable (New)", "Automata Pro"]}
+{"query": "Hiring a professional sales manager — what assessments should I use?", "ground_truth": ["OPQ32r", "Sales Styles Questionnaire"]}
+{"query": "Hiring a frontline sales manager — what assessments should I use?", "ground_truth": ["Customer Contact Styles Questionnaire", "OPQ32r"]}
+{"query": "Hiring a frontline sales manager — what assessments should I use?", "ground_truth": ["Customer Contact Styles Questionnaire", "Universal Competency Framework (UCF)"]}
+{"query": "Hiring a front line manager hiring manager — what assessments should I use?", "ground_truth": ["Supervisory Practices Inventory (SPI)", "Situational Judgement Test - Customer Service"]}
+{"query": "Hiring a professional graduate analyst — what assessments should I use?", "ground_truth": ["Mechanical Comprehension", "Verify Verbal Reasoning"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Oracle (New)", ".NET WPF (New)"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Hibernate (New)", "Scala (New)"]}
+{"query": "Hiring a entry-level hiring manager — what assessments should I use?", "ground_truth": ["Situational Judgement Test - Customer Service", "Situational Judgement Test - Manager"]}
+{"query": "Hiring a graduate engineer — what assessments should I use?", "ground_truth": ["English Language Assessment", "React (New)"]}
+{"query": "Hiring a professional software developer — what assessments should I use?", "ground_truth": [".NET WPF (New)", "Python (New)"]}
+{"query": "Hiring a professional software developer — what assessments should I use?", "ground_truth": ["JavaScript (New)", "Microsoft Excel (Office 2019)"]}
+{"query": "Hiring a professional data analyst — what assessments should I use?", "ground_truth": ["Data Analysis (New)", "Microsoft PowerPoint (Office 2019)"]}
+{"query": "Hiring a professional engineer — what assessments should I use?", "ground_truth": ["Automata - Fix the Code", "Occupational Safety (Safety 7.1)"]}
+{"query": "Hiring a professional graduate analyst — what assessments should I use?", "ground_truth": ["Spatial Reasoning", "Verify Numerical Ability"]}
+{"query": "Hiring a administrative engineer — what assessments should I use?", "ground_truth": ["Microsoft Excel (Office 2019)", "Java 8 (New)"]}
+{"query": "Hiring a professional graduate analyst — what assessments should I use?", "ground_truth": ["Mechanical Comprehension", "Verify Interactive - Inductive Reasoning"]}
+{"query": "Hiring a professional software developer — what assessments should I use?", "ground_truth": [".NET MVVM (New)", "Automata Pro"]}
+{"query": "Hiring a graduate data analyst — what assessments should I use?", "ground_truth": ["Data Analysis (New)", "Angular (New)"]}
+{"query": "Hiring a clerical hiring manager — what assessments should I use?", "ground_truth": ["Accounts Receivable Simulation (New)", "Accounts Payable Simulation (New)"]}
+{"query": "Hiring a clerical graduate analyst — what assessments should I use?", "ground_truth": ["Verify Numerical Ability", "Verify Numerical Reasoning"]}
+{"query": "Hiring a professional data analyst — what assessments should I use?", "ground_truth": ["Machine Learning (New)", "HTML/CSS (New)"]}

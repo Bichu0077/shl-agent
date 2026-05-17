@@ -1,0 +1,3611 @@
+{
+  "per_query": [
+    {
+      "query": "Hiring a entry-level hiring manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "Verify Checking",
+        "Global Skills Development Report",
+        "Managerial & Professional Short Form 8.0",
+        "Verify Verbal Ability",
+        "Situational Judgement Test - Manager",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Contact Center Simulation",
+        "Automata - Fix the Code"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a graduate software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Verify Numerical Ability",
+        "Graduate 8.0 Short Form",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Calculation",
+        "Situational Judgement Test - Graduate"
+      ],
+      "ground_truth": [
+        "JavaScript (New)",
+        "C++ (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a graduate graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Verify Deductive Reasoning",
+        "Global Skills Development Report",
+        "Situational Judgement Test - Graduate",
+        "Graduate 8.0 Short Form",
+        "Data Analysis (New)",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Reasoning",
+        "Verify Interactive - Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "General Ability Test (GAT)",
+        "Technology Professional 8.0 - Short Form"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Data Analysis (New)",
+        "Verify Inductive Reasoning",
+        "Situational Judgement Test - Graduate",
+        "Verify Interactive - Deductive Reasoning",
+        "Graduate 8.0 Short Form",
+        "Verify Numerical Reasoning"
+      ],
+      "ground_truth": [
+        "Verify Interactive - Inductive Reasoning",
+        "Verify Verbal Reasoning"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 1.0,
+      "ndcg@k": 0.6131471927654584,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a graduate graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Verify Deductive Reasoning",
+        "Global Skills Development Report",
+        "Situational Judgement Test - Graduate",
+        "Graduate 8.0 Short Form",
+        "Data Analysis (New)",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Reasoning",
+        "Verify Interactive - Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Verify Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 0.3333333333333333,
+      "ndcg@k": 0.3065735963827292,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a entry-level hiring manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "Verify Checking",
+        "Global Skills Development Report",
+        "Managerial & Professional Short Form 8.0",
+        "Verify Verbal Ability",
+        "Situational Judgement Test - Manager",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Situational Judgement Test - Customer Service",
+        "Situational Judgement Test - Graduate"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a entry-level engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Calculation",
+        "Verify Numerical Ability",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Mechanical Comprehension",
+        "Verify Inductive Reasoning",
+        "Verify Verbal Ability",
+        "Verify Checking",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Typing Speed and Accuracy",
+        "ADO.NET (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Spring Framework (New)",
+        "Technology Professional 8.0 - Short Form"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a manager sales manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Sales Styles Questionnaire",
+        "Situational Judgement Test - Manager",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "English Language Assessment",
+        "Managerial & Professional Short Form 8.0",
+        "Verify Deductive Reasoning",
+        "Situational Judgement Test - Graduate",
+        "Supervisory Practices Inventory (SPI)",
+        "OPQ32r"
+      ],
+      "ground_truth": [
+        "OPQ32 (n)",
+        "Universal Competency Framework (UCF)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Verbal Reasoning",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation",
+        ".NET (New)",
+        "Technology Professional 8.0 - Short Form",
+        "Verify Numerical Ability",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        ".NET XAML (New)",
+        ".NET MVC (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional sales manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Sales Styles Questionnaire",
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Managerial & Professional Short Form 8.0",
+        "Situational Judgement Test - Manager",
+        "Situational Judgement Test - Graduate",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation"
+      ],
+      "ground_truth": [
+        "Universal Competency Framework (UCF)",
+        "OPQ32 (n)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Data Analysis (New)",
+        "Verify Inductive Reasoning",
+        "Situational Judgement Test - Graduate",
+        "Verify Interactive - Deductive Reasoning",
+        "Graduate 8.0 Short Form",
+        "Verify Numerical Reasoning"
+      ],
+      "ground_truth": [
+        "Verify Interactive - Inductive Reasoning",
+        "Verify Deductive Reasoning"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 0.25,
+      "ndcg@k": 0.2640681225725909,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "C++ (New)",
+        "Automata Pro"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Verbal Reasoning",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation",
+        ".NET (New)",
+        "Technology Professional 8.0 - Short Form",
+        "Verify Numerical Ability",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Core Java (Advanced Level)",
+        "English Language Assessment"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 1.0,
+      "ndcg@k": 0.6131471927654584,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Hibernate (New)",
+        "Angular (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Data Analysis (New)",
+        "Verify Inductive Reasoning",
+        "Situational Judgement Test - Graduate",
+        "Verify Interactive - Deductive Reasoning",
+        "Graduate 8.0 Short Form",
+        "Verify Numerical Reasoning"
+      ],
+      "ground_truth": [
+        "Verify Interactive - Verbal Reasoning",
+        "Verify Interactive - Deductive Reasoning"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 0.125,
+      "ndcg@k": 0.19342640361727081,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a clerical hiring manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "Verify Checking",
+        "Verify Verbal Ability",
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Situational Judgement Test - Manager",
+        "Global Skills Development Report",
+        "Managerial & Professional Short Form 8.0",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Accounts Receivable Simulation (New)",
+        "Call Centre Simulation"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a clerical graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning",
+        "Verify Verbal Ability",
+        "Situational Judgement Test - Graduate",
+        "Data Analysis (New)",
+        "Global Skills Development Report"
+      ],
+      "ground_truth": [
+        "Verify Calculation",
+        "Verify Checking"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 0.25,
+      "ndcg@k": 0.2640681225725909,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Verbal Reasoning",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation",
+        ".NET (New)",
+        "Technology Professional 8.0 - Short Form",
+        "Verify Numerical Ability",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        ".NET (New)",
+        "C++ (New)"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 0.16666666666666666,
+      "ndcg@k": 0.21840743681816419,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a manager graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Managerial & Professional Short Form 8.0",
+        "Verify Deductive Reasoning",
+        "Situational Judgement Test - Manager",
+        "Situational Judgement Test - Graduate",
+        "Data Analysis (New)",
+        "Verify Numerical Reasoning",
+        "Verify Inductive Reasoning"
+      ],
+      "ground_truth": [
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Hibernate (New)",
+        ".NET MVVM (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "PHP (New)",
+        ".NET XAML (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a graduate software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Verify Numerical Ability",
+        "Graduate 8.0 Short Form",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Calculation",
+        "Situational Judgement Test - Graduate"
+      ],
+      "ground_truth": [
+        "Python (New)",
+        "Automata Pro"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a entry-level hiring manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "Verify Checking",
+        "Global Skills Development Report",
+        "Managerial & Professional Short Form 8.0",
+        "Verify Verbal Ability",
+        "Situational Judgement Test - Manager",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Contact Center Simulation",
+        "MFS - Inbox Simulation"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a supervisor hiring manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Situational Judgement Test - Manager",
+        "Managerial & Professional Short Form 8.0",
+        "Supervisory Practices Inventory (SPI)",
+        "OPQ32r",
+        "Verify Checking",
+        "Verify Numerical Ability",
+        "Verify Verbal Ability"
+      ],
+      "ground_truth": [
+        "Supervisory Practices Inventory (SPI)",
+        "Global Skills Development Report"
+      ],
+      "precision@k": 0.2,
+      "recall@k": 1.0,
+      "mrr": 0.3333333333333333,
+      "ndcg@k": 0.5249810332008933,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Ruby (New)",
+        "Accounts Receivable (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a clerical engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "English Language Assessment",
+        "Verify Checking",
+        "Verify Verbal Ability",
+        "Verify Verbal Reasoning",
+        "Verify Inductive Reasoning",
+        "Global Skills Development Report",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Accounts Receivable (New)",
+        "Microsoft PowerPoint (Office 2019)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Verbal Reasoning",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation",
+        ".NET (New)",
+        "Technology Professional 8.0 - Short Form",
+        "Verify Numerical Ability",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        ".NET WCF (New)",
+        "C++ (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a manager graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Managerial & Professional Short Form 8.0",
+        "Verify Deductive Reasoning",
+        "Situational Judgement Test - Manager",
+        "Situational Judgement Test - Graduate",
+        "Data Analysis (New)",
+        "Verify Numerical Reasoning",
+        "Verify Inductive Reasoning"
+      ],
+      "ground_truth": [
+        "Verify G+ Cognitive Ability",
+        "Mechanical Comprehension"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a graduate software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Verify Numerical Ability",
+        "Graduate 8.0 Short Form",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Calculation",
+        "Situational Judgement Test - Graduate"
+      ],
+      "ground_truth": [
+        "Python (New)",
+        "ADO.NET (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional hiring manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Managerial & Professional Short Form 8.0",
+        "Global Skills Development Report",
+        "Situational Judgement Test - Manager",
+        "Verify Checking",
+        "Verify Deductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "Verify Interactive - Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Accounts Payable Simulation (New)",
+        "Automata Pro"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a entry-level engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Calculation",
+        "Verify Numerical Ability",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Mechanical Comprehension",
+        "Verify Inductive Reasoning",
+        "Verify Verbal Ability",
+        "Verify Checking",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Typing Speed and Accuracy",
+        "React (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a frontline hiring manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Situational Judgement Test - Manager",
+        "Verify Verbal Reasoning",
+        "Verify Numerical Ability",
+        "Verify Checking",
+        "Verify Calculation",
+        "Situational Judgement Test - Graduate",
+        "Global Skills Development Report",
+        "Situational Judgement Test - Customer Service",
+        "Verify Verbal Ability"
+      ],
+      "ground_truth": [
+        "Call Centre Simulation",
+        "Automata Pro"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Verbal Reasoning",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation",
+        ".NET (New)",
+        "Technology Professional 8.0 - Short Form",
+        "Verify Numerical Ability",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Core Java (Advanced Level)",
+        "C (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Accounts Receivable (New)",
+        "AWS (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Angular (New)",
+        "HTML/CSS (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a manager hiring manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Situational Judgement Test - Manager",
+        "Verify Verbal Reasoning",
+        "Managerial & Professional Short Form 8.0",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Checking",
+        "Verify Numerical Ability",
+        "Verify Deductive Reasoning",
+        "Sales Styles Questionnaire",
+        "Verify Calculation"
+      ],
+      "ground_truth": [
+        "Situational Judgement Test - Manager",
+        "Global Skills Development Report"
+      ],
+      "precision@k": 0.2,
+      "recall@k": 1.0,
+      "mrr": 1.0,
+      "ndcg@k": 0.8503449055347546,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a graduate graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Verify Deductive Reasoning",
+        "Global Skills Development Report",
+        "Situational Judgement Test - Graduate",
+        "Graduate 8.0 Short Form",
+        "Data Analysis (New)",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Reasoning",
+        "Verify Interactive - Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Verify Interactive - Inductive Reasoning",
+        "Verify Deductive Reasoning"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 0.3333333333333333,
+      "ndcg@k": 0.3065735963827292,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional sales manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Sales Styles Questionnaire",
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Managerial & Professional Short Form 8.0",
+        "Situational Judgement Test - Manager",
+        "Situational Judgement Test - Graduate",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation"
+      ],
+      "ground_truth": [
+        "OPQ32r",
+        "Universal Competency Framework (UCF)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a clerical engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "English Language Assessment",
+        "Verify Checking",
+        "Verify Verbal Ability",
+        "Verify Verbal Reasoning",
+        "Verify Inductive Reasoning",
+        "Global Skills Development Report",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Microsoft PowerPoint (Office 2019)",
+        "Angular (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Ruby (New)",
+        "Agile (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a graduate software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Verify Numerical Ability",
+        "Graduate 8.0 Short Form",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Calculation",
+        "Situational Judgement Test - Graduate"
+      ],
+      "ground_truth": [
+        "Java 8 (New)",
+        "Microsoft PowerPoint (Office 2019)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Data Analysis (New)",
+        "Verify Inductive Reasoning",
+        "Situational Judgement Test - Graduate",
+        "Verify Interactive - Deductive Reasoning",
+        "Graduate 8.0 Short Form",
+        "Verify Numerical Reasoning"
+      ],
+      "ground_truth": [
+        "Spatial Reasoning",
+        "Verify Interactive - Verbal Reasoning"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Data Analysis (New)",
+        "Verify Inductive Reasoning",
+        "Situational Judgement Test - Graduate",
+        "Verify Interactive - Deductive Reasoning",
+        "Graduate 8.0 Short Form",
+        "Verify Numerical Reasoning"
+      ],
+      "ground_truth": [
+        "Spatial Reasoning",
+        "Mechanical Comprehension"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional sales manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Sales Styles Questionnaire",
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Managerial & Professional Short Form 8.0",
+        "Situational Judgement Test - Manager",
+        "Situational Judgement Test - Graduate",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation"
+      ],
+      "ground_truth": [
+        "OPQ32 (n)",
+        "OPQ32r"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Verbal Reasoning",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation",
+        ".NET (New)",
+        "Technology Professional 8.0 - Short Form",
+        "Verify Numerical Ability",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Core Java (Advanced Level)",
+        "Selenium (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Data Analysis (New)",
+        "Verify Inductive Reasoning",
+        "Situational Judgement Test - Graduate",
+        "Verify Interactive - Deductive Reasoning",
+        "Graduate 8.0 Short Form",
+        "Verify Numerical Reasoning"
+      ],
+      "ground_truth": [
+        "Mechanical Comprehension",
+        "General Ability Test (GAT)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a clerical engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "English Language Assessment",
+        "Verify Checking",
+        "Verify Verbal Ability",
+        "Verify Verbal Reasoning",
+        "Verify Inductive Reasoning",
+        "Global Skills Development Report",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Workplace English (Business Writing)",
+        ".NET MVC (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a graduate engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Graduate 8.0 Short Form",
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "Verify Inductive Reasoning",
+        "Situational Judgement Test - Graduate",
+        "Verify Numerical Reasoning"
+      ],
+      "ground_truth": [
+        "PHP (New)",
+        "Data Analysis (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "AWS (New)",
+        "Automata Pro"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Verbal Reasoning",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation",
+        ".NET (New)",
+        "Technology Professional 8.0 - Short Form",
+        "Verify Numerical Ability",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        ".NET WCF (New)",
+        "Occupational Safety (Safety 7.1)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Data Analysis (New)",
+        "Verify Inductive Reasoning",
+        "Situational Judgement Test - Graduate",
+        "Verify Interactive - Deductive Reasoning",
+        "Graduate 8.0 Short Form",
+        "Verify Numerical Reasoning"
+      ],
+      "ground_truth": [
+        "Spatial Reasoning",
+        "Verify Interactive - Numerical Reasoning"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a graduate hiring manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Situational Judgement Test - Graduate",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Graduate 8.0 Short Form",
+        "Managerial & Professional Short Form 8.0",
+        "Situational Judgement Test - Manager",
+        "Verify Numerical Ability",
+        "Verify Calculation"
+      ],
+      "ground_truth": [
+        "Situational Judgement Test - Graduate",
+        "Situational Judgement Test - Customer Service"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 0.3333333333333333,
+      "ndcg@k": 0.3065735963827292,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a clerical hiring manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "Verify Checking",
+        "Verify Verbal Ability",
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Situational Judgement Test - Manager",
+        "Global Skills Development Report",
+        "Managerial & Professional Short Form 8.0",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Accounts Payable Simulation (New)",
+        "Automata - Fix the Code"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a mid-professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Verbal Reasoning",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Numerical Ability",
+        "Situational Judgement Test - Graduate"
+      ],
+      "ground_truth": [
+        "Manual Testing (New)",
+        "Data Analysis (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a manager graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Managerial & Professional Short Form 8.0",
+        "Verify Deductive Reasoning",
+        "Situational Judgement Test - Manager",
+        "Situational Judgement Test - Graduate",
+        "Data Analysis (New)",
+        "Verify Numerical Reasoning",
+        "Verify Inductive Reasoning"
+      ],
+      "ground_truth": [
+        "Managerial & Professional Short Form 8.0",
+        "Graduate 8.0 Short Form"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 0.25,
+      "ndcg@k": 0.2640681225725909,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a clerical engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "English Language Assessment",
+        "Verify Checking",
+        "Verify Verbal Ability",
+        "Verify Verbal Reasoning",
+        "Verify Inductive Reasoning",
+        "Global Skills Development Report",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Accounts Payable (New)",
+        "C (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "AWS (New)",
+        ".NET XAML (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Automata Pro",
+        "Microsoft PowerPoint (Office 2019)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Verbal Reasoning",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation",
+        ".NET (New)",
+        "Technology Professional 8.0 - Short Form",
+        "Verify Numerical Ability",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        ".NET MVC (New)",
+        "Microsoft Word (Office 2019)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a entry-level engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Calculation",
+        "Verify Numerical Ability",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Mechanical Comprehension",
+        "Verify Inductive Reasoning",
+        "Verify Verbal Ability",
+        "Verify Checking",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Typing Speed and Accuracy",
+        "Hibernate (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional data analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Data Analysis (New)",
+        "Verify Numerical Reasoning",
+        "Microsoft Excel (Office 2019)",
+        "Global Skills Development Report",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning",
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation"
+      ],
+      "ground_truth": [
+        "Machine Learning (New)",
+        ".NET (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a supervisor hiring manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Situational Judgement Test - Manager",
+        "Managerial & Professional Short Form 8.0",
+        "Supervisory Practices Inventory (SPI)",
+        "OPQ32r",
+        "Verify Checking",
+        "Verify Numerical Ability",
+        "Verify Verbal Ability"
+      ],
+      "ground_truth": [
+        "Supervisory Practices Inventory (SPI)",
+        "Situational Judgement Test - Manager"
+      ],
+      "precision@k": 0.2,
+      "recall@k": 1.0,
+      "mrr": 0.25,
+      "ndcg@k": 0.48247555939075504,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Verbal Reasoning",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation",
+        ".NET (New)",
+        "Technology Professional 8.0 - Short Form",
+        "Verify Numerical Ability",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        ".NET XAML (New)",
+        "Automata - Fix the Code"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a clerical engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "English Language Assessment",
+        "Verify Checking",
+        "Verify Verbal Ability",
+        "Verify Verbal Reasoning",
+        "Verify Inductive Reasoning",
+        "Global Skills Development Report",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Accounts Payable (New)",
+        "AWS (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a manager hiring manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Situational Judgement Test - Manager",
+        "Verify Verbal Reasoning",
+        "Managerial & Professional Short Form 8.0",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Checking",
+        "Verify Numerical Ability",
+        "Verify Deductive Reasoning",
+        "Sales Styles Questionnaire",
+        "Verify Calculation"
+      ],
+      "ground_truth": [
+        "Situational Judgement Test - Manager",
+        "Situational Judgement Test - Customer Service"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 1.0,
+      "ndcg@k": 0.6131471927654584,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a manager sales manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Sales Styles Questionnaire",
+        "Situational Judgement Test - Manager",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "English Language Assessment",
+        "Managerial & Professional Short Form 8.0",
+        "Verify Deductive Reasoning",
+        "Situational Judgement Test - Graduate",
+        "Supervisory Practices Inventory (SPI)",
+        "OPQ32r"
+      ],
+      "ground_truth": [
+        "Global Skills Development Report",
+        "Spatial Reasoning"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 0.25,
+      "ndcg@k": 0.2640681225725909,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a clerical graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning",
+        "Verify Verbal Ability",
+        "Situational Judgement Test - Graduate",
+        "Data Analysis (New)",
+        "Global Skills Development Report"
+      ],
+      "ground_truth": [
+        "Verify Calculation",
+        "Verify Interactive - Inductive Reasoning"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 0.25,
+      "ndcg@k": 0.2640681225725909,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a graduate graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Verify Deductive Reasoning",
+        "Global Skills Development Report",
+        "Situational Judgement Test - Graduate",
+        "Graduate 8.0 Short Form",
+        "Data Analysis (New)",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Reasoning",
+        "Verify Interactive - Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Verify Interactive - Numerical Reasoning",
+        "Verify Calculation"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a mid-professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Verbal Reasoning",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Numerical Ability",
+        "Situational Judgement Test - Graduate"
+      ],
+      "ground_truth": [
+        "Manual Testing (New)",
+        "Data Analysis (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Data Analysis (New)",
+        "Verify Inductive Reasoning",
+        "Situational Judgement Test - Graduate",
+        "Verify Interactive - Deductive Reasoning",
+        "Graduate 8.0 Short Form",
+        "Verify Numerical Reasoning"
+      ],
+      "ground_truth": [
+        "Managerial & Professional Short Form 8.0",
+        "Verify Checking"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Oracle (New)",
+        ".NET WPF (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Data Analysis (New)",
+        "Verify Inductive Reasoning",
+        "Situational Judgement Test - Graduate",
+        "Verify Interactive - Deductive Reasoning",
+        "Graduate 8.0 Short Form",
+        "Verify Numerical Reasoning"
+      ],
+      "ground_truth": [
+        "Verify Interactive - Deductive Reasoning",
+        "Spatial Reasoning"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 0.125,
+      "ndcg@k": 0.19342640361727081,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "C++ (New)",
+        "Spring Framework (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a graduate software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Verify Numerical Ability",
+        "Graduate 8.0 Short Form",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Calculation",
+        "Situational Judgement Test - Graduate"
+      ],
+      "ground_truth": [
+        "MySQL (New)",
+        "Microsoft PowerPoint (Office 2019)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a clerical engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "English Language Assessment",
+        "Verify Checking",
+        "Verify Verbal Ability",
+        "Verify Verbal Reasoning",
+        "Verify Inductive Reasoning",
+        "Global Skills Development Report",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Typing Speed and Accuracy",
+        "Core Java (Advanced Level)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Android (New)",
+        "SQL (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a supervisor hiring manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Situational Judgement Test - Manager",
+        "Managerial & Professional Short Form 8.0",
+        "Supervisory Practices Inventory (SPI)",
+        "OPQ32r",
+        "Verify Checking",
+        "Verify Numerical Ability",
+        "Verify Verbal Ability"
+      ],
+      "ground_truth": [
+        "Supervisory Practices Inventory (SPI)",
+        "Situational Judgement Test - Customer Service"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 0.16666666666666666,
+      "ndcg@k": 0.21840743681816419,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Automata - Fix the Code",
+        ".NET Framework 4.5"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Angular (New)",
+        "PHP (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a graduate software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Verify Numerical Ability",
+        "Graduate 8.0 Short Form",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Calculation",
+        "Situational Judgement Test - Graduate"
+      ],
+      "ground_truth": [
+        "MySQL (New)",
+        "Python (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a graduate engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Graduate 8.0 Short Form",
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "Verify Inductive Reasoning",
+        "Situational Judgement Test - Graduate",
+        "Verify Numerical Reasoning"
+      ],
+      "ground_truth": [
+        "Node.js (New)",
+        "Core Java (Advanced Level)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a clerical engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "English Language Assessment",
+        "Verify Checking",
+        "Verify Verbal Ability",
+        "Verify Verbal Reasoning",
+        "Verify Inductive Reasoning",
+        "Global Skills Development Report",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Typing Speed and Accuracy",
+        "JavaScript (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a graduate hiring manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Situational Judgement Test - Graduate",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Graduate 8.0 Short Form",
+        "Managerial & Professional Short Form 8.0",
+        "Situational Judgement Test - Manager",
+        "Verify Numerical Ability",
+        "Verify Calculation"
+      ],
+      "ground_truth": [
+        "Situational Judgement Test - Graduate",
+        "Global Skills Development Report"
+      ],
+      "precision@k": 0.2,
+      "recall@k": 1.0,
+      "mrr": 0.3333333333333333,
+      "ndcg@k": 0.5706417189553201,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Manual Testing (New)",
+        ".NET XAML (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Android (New)",
+        ".NET MVVM (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a graduate engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Graduate 8.0 Short Form",
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "Verify Inductive Reasoning",
+        "Situational Judgement Test - Graduate",
+        "Verify Numerical Reasoning"
+      ],
+      "ground_truth": [
+        "Ruby (New)",
+        "React (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a senior software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Numerical Ability",
+        "Verify Verbal Reasoning",
+        "Verify Calculation",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Verbal Ability",
+        ".NET (New)",
+        "Verify Deductive Reasoning",
+        "Manual Testing (New)"
+      ],
+      "ground_truth": [
+        "Core Java (Advanced Level)",
+        "Scala (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Angular (New)",
+        ".NET MVC (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional sales manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Sales Styles Questionnaire",
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Managerial & Professional Short Form 8.0",
+        "Situational Judgement Test - Manager",
+        "Situational Judgement Test - Graduate",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation"
+      ],
+      "ground_truth": [
+        "Remote Worker Personality Questionnaire",
+        "Sales Styles Questionnaire"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 1.0,
+      "ndcg@k": 0.6131471927654584,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a clerical graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning",
+        "Verify Verbal Ability",
+        "Situational Judgement Test - Graduate",
+        "Data Analysis (New)",
+        "Global Skills Development Report"
+      ],
+      "ground_truth": [
+        "Verify Checking",
+        "Verify Interactive - Inductive Reasoning"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a clerical graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning",
+        "Verify Verbal Ability",
+        "Situational Judgement Test - Graduate",
+        "Data Analysis (New)",
+        "Global Skills Development Report"
+      ],
+      "ground_truth": [
+        "Verify Checking",
+        "Global Skills Development Report"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 0.1,
+      "ndcg@k": 0.17723928678404774,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Unix/Linux (New)",
+        "Core Java (Advanced Level)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a graduate data analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Data Analysis (New)",
+        "Verify Numerical Reasoning",
+        "Verify Verbal Reasoning",
+        "Verify Deductive Reasoning",
+        "Global Skills Development Report",
+        "Verify Inductive Reasoning",
+        "English Language Assessment",
+        "SQL (New)",
+        "Verify Interactive - Deductive Reasoning",
+        "Microsoft Excel (Office 2019)"
+      ],
+      "ground_truth": [
+        "Data Analysis (New)",
+        ".NET WCF (New)"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 1.0,
+      "ndcg@k": 0.6131471927654584,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a clerical graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning",
+        "Verify Verbal Ability",
+        "Situational Judgement Test - Graduate",
+        "Data Analysis (New)",
+        "Global Skills Development Report"
+      ],
+      "ground_truth": [
+        "Verify Calculation",
+        "Verify Checking"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 0.25,
+      "ndcg@k": 0.2640681225725909,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Android (New)",
+        "AWS (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a supervisor hiring manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Situational Judgement Test - Manager",
+        "Managerial & Professional Short Form 8.0",
+        "Supervisory Practices Inventory (SPI)",
+        "OPQ32r",
+        "Verify Checking",
+        "Verify Numerical Ability",
+        "Verify Verbal Ability"
+      ],
+      "ground_truth": [
+        "Supervisory Practices Inventory (SPI)",
+        "Situational Judgement Test - Manager"
+      ],
+      "precision@k": 0.2,
+      "recall@k": 1.0,
+      "mrr": 0.25,
+      "ndcg@k": 0.48247555939075504,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "HTML/CSS (New)",
+        "C (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a frontline engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "HTML/CSS (New)",
+        "Verify Calculation",
+        "Verify Numerical Ability",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Checking",
+        "Situational Judgement Test - Graduate",
+        "Verify Deductive Reasoning",
+        "Dependability & Safety Instrument (DSI)"
+      ],
+      "ground_truth": [
+        "Occupational Safety (Safety 7.1)",
+        ".NET MVC (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a senior software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Numerical Ability",
+        "Verify Verbal Reasoning",
+        "Verify Calculation",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Verbal Ability",
+        ".NET (New)",
+        "Verify Deductive Reasoning",
+        "Manual Testing (New)"
+      ],
+      "ground_truth": [
+        "Core Java (Advanced Level)",
+        ".NET MVC (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a frontline hiring manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Situational Judgement Test - Manager",
+        "Verify Verbal Reasoning",
+        "Verify Numerical Ability",
+        "Verify Checking",
+        "Verify Calculation",
+        "Situational Judgement Test - Graduate",
+        "Global Skills Development Report",
+        "Situational Judgement Test - Customer Service",
+        "Verify Verbal Ability"
+      ],
+      "ground_truth": [
+        "Call Centre Simulation",
+        "Accounts Receivable Simulation (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Verbal Reasoning",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation",
+        ".NET (New)",
+        "Technology Professional 8.0 - Short Form",
+        "Verify Numerical Ability",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        ".NET MVVM (New)",
+        "Technology Professional 8.0 - Short Form"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 0.14285714285714285,
+      "ndcg@k": 0.20438239758848611,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Hibernate (New)",
+        "Python (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a graduate engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Graduate 8.0 Short Form",
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "Verify Inductive Reasoning",
+        "Situational Judgement Test - Graduate",
+        "Verify Numerical Reasoning"
+      ],
+      "ground_truth": [
+        "Automata - Fix the Code",
+        "Manual Testing (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Verbal Reasoning",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation",
+        ".NET (New)",
+        "Technology Professional 8.0 - Short Form",
+        "Verify Numerical Ability",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Core Java (Advanced Level)",
+        "HTML/CSS (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a clerical graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning",
+        "Verify Verbal Ability",
+        "Situational Judgement Test - Graduate",
+        "Data Analysis (New)",
+        "Global Skills Development Report"
+      ],
+      "ground_truth": [
+        "Verify Calculation",
+        "Verify Interactive - Deductive Reasoning"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 0.25,
+      "ndcg@k": 0.2640681225725909,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a graduate software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Verify Numerical Ability",
+        "Graduate 8.0 Short Form",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Calculation",
+        "Situational Judgement Test - Graduate"
+      ],
+      "ground_truth": [
+        "SQL (New)",
+        "MySQL (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a senior engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Mechanical Comprehension",
+        "Verify Inductive Reasoning",
+        "Verify Verbal Ability",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Automata Pro",
+        "Accounts Payable (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a clerical engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "English Language Assessment",
+        "Verify Checking",
+        "Verify Verbal Ability",
+        "Verify Verbal Reasoning",
+        "Verify Inductive Reasoning",
+        "Global Skills Development Report",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Typing Speed and Accuracy",
+        "Microsoft Excel (Office 2019)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Accounts Payable (New)",
+        "Microsoft Word (Office 2019)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a operator graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Calculation",
+        "Verify Deductive Reasoning",
+        "Data Analysis (New)",
+        "Situational Judgement Test - Graduate",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Numerical Reasoning"
+      ],
+      "ground_truth": [
+        "Mechanical Comprehension",
+        "Verify Calculation"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 0.25,
+      "ndcg@k": 0.2640681225725909,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a graduate graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Verify Deductive Reasoning",
+        "Global Skills Development Report",
+        "Situational Judgement Test - Graduate",
+        "Graduate 8.0 Short Form",
+        "Data Analysis (New)",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Reasoning",
+        "Verify Interactive - Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Spatial Reasoning",
+        "Technology Professional 8.0 - Short Form"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a manager sales manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Sales Styles Questionnaire",
+        "Situational Judgement Test - Manager",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "English Language Assessment",
+        "Managerial & Professional Short Form 8.0",
+        "Verify Deductive Reasoning",
+        "Situational Judgement Test - Graduate",
+        "Supervisory Practices Inventory (SPI)",
+        "OPQ32r"
+      ],
+      "ground_truth": [
+        "OPQ32r",
+        "Dependability & Safety Instrument (DSI)"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 0.1,
+      "ndcg@k": 0.17723928678404774,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a clerical engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "English Language Assessment",
+        "Verify Checking",
+        "Verify Verbal Ability",
+        "Verify Verbal Reasoning",
+        "Verify Inductive Reasoning",
+        "Global Skills Development Report",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Workplace English (Business Writing)",
+        "Typing Speed and Accuracy"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Verbal Reasoning",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation",
+        ".NET (New)",
+        "Technology Professional 8.0 - Short Form",
+        "Verify Numerical Ability",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        ".NET XAML (New)",
+        "Microsoft PowerPoint (Office 2019)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a frontline hiring manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Situational Judgement Test - Manager",
+        "Verify Verbal Reasoning",
+        "Verify Numerical Ability",
+        "Verify Checking",
+        "Verify Calculation",
+        "Situational Judgement Test - Graduate",
+        "Global Skills Development Report",
+        "Situational Judgement Test - Customer Service",
+        "Verify Verbal Ability"
+      ],
+      "ground_truth": [
+        "Contact Center Simulation",
+        "MFS - Inbox Simulation"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Manual Testing (New)",
+        "Core Java (Advanced Level)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Data Analysis (New)",
+        "Verify Inductive Reasoning",
+        "Situational Judgement Test - Graduate",
+        "Verify Interactive - Deductive Reasoning",
+        "Graduate 8.0 Short Form",
+        "Verify Numerical Reasoning"
+      ],
+      "ground_truth": [
+        "Verify Interactive - Inductive Reasoning",
+        "Verify Calculation"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a entry-level graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning",
+        "Global Skills Development Report",
+        "Data Analysis (New)",
+        "Situational Judgement Test - Graduate",
+        "Graduate 8.0 Short Form",
+        "Verify Numerical Ability",
+        "Verify Calculation"
+      ],
+      "ground_truth": [
+        "Verify Numerical Ability",
+        "Verify Interactive - Inductive Reasoning"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 0.1111111111111111,
+      "ndcg@k": 0.18457569677956817,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Data Analysis (New)",
+        "Verify Inductive Reasoning",
+        "Situational Judgement Test - Graduate",
+        "Verify Interactive - Deductive Reasoning",
+        "Graduate 8.0 Short Form",
+        "Verify Numerical Reasoning"
+      ],
+      "ground_truth": [
+        "Managerial & Professional Short Form 8.0",
+        "Verify Numerical Ability"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Node.js (New)",
+        "Machine Learning (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a graduate graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Verify Deductive Reasoning",
+        "Global Skills Development Report",
+        "Situational Judgement Test - Graduate",
+        "Graduate 8.0 Short Form",
+        "Data Analysis (New)",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Reasoning",
+        "Verify Interactive - Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Verify Verbal Reasoning",
+        "Verify Deductive Reasoning"
+      ],
+      "precision@k": 0.2,
+      "recall@k": 1.0,
+      "mrr": 1.0,
+      "ndcg@k": 0.9197207891481876,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a graduate sales manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Sales Styles Questionnaire",
+        "Verify Verbal Reasoning",
+        "Situational Judgement Test - Graduate",
+        "English Language Assessment",
+        "Verify Deductive Reasoning",
+        "Global Skills Development Report",
+        "Situational Judgement Test - Manager",
+        "Managerial & Professional Short Form 8.0",
+        "Graduate 8.0 Short Form",
+        "Verify Inductive Reasoning"
+      ],
+      "ground_truth": [
+        "OPQ32r",
+        "Occupational Safety (Safety 7.1)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Microsoft Excel (Office 2019)",
+        ".NET MVC (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a graduate engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Graduate 8.0 Short Form",
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "Verify Inductive Reasoning",
+        "Situational Judgement Test - Graduate",
+        "Verify Numerical Reasoning"
+      ],
+      "ground_truth": [
+        "React (New)",
+        "Java 8 (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Verbal Reasoning",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation",
+        ".NET (New)",
+        "Technology Professional 8.0 - Short Form",
+        "Verify Numerical Ability",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        ".NET MVC (New)",
+        "Java 8 (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "C++ (New)",
+        "Microsoft PowerPoint (Office 2019)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a supervisor hiring manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Situational Judgement Test - Manager",
+        "Managerial & Professional Short Form 8.0",
+        "Supervisory Practices Inventory (SPI)",
+        "OPQ32r",
+        "Verify Checking",
+        "Verify Numerical Ability",
+        "Verify Verbal Ability"
+      ],
+      "ground_truth": [
+        "Supervisory Practices Inventory (SPI)",
+        "Situational Judgement Test - Graduate"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 0.16666666666666666,
+      "ndcg@k": 0.21840743681816419,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Accounts Receivable (New)",
+        "Automata Pro"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional sales manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Sales Styles Questionnaire",
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Managerial & Professional Short Form 8.0",
+        "Situational Judgement Test - Manager",
+        "Situational Judgement Test - Graduate",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation"
+      ],
+      "ground_truth": [
+        "OPQ32r",
+        "Sales Styles Questionnaire"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 1.0,
+      "ndcg@k": 0.6131471927654584,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a frontline sales manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Sales Styles Questionnaire",
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Situational Judgement Test - Manager",
+        "Situational Judgement Test - Customer Service",
+        "Situational Judgement Test - Graduate",
+        "Supervisory Practices Inventory (SPI)",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Verify Numerical Ability"
+      ],
+      "ground_truth": [
+        "Customer Contact Styles Questionnaire",
+        "OPQ32r"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a frontline sales manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Sales Styles Questionnaire",
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Situational Judgement Test - Manager",
+        "Situational Judgement Test - Customer Service",
+        "Situational Judgement Test - Graduate",
+        "Supervisory Practices Inventory (SPI)",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Verify Numerical Ability"
+      ],
+      "ground_truth": [
+        "Customer Contact Styles Questionnaire",
+        "Universal Competency Framework (UCF)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a front line manager hiring manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Situational Judgement Test - Manager",
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Managerial & Professional Short Form 8.0",
+        "Situational Judgement Test - Graduate",
+        "Verify Numerical Ability",
+        "Verify Checking",
+        "Verify Calculation",
+        "Supervisory Practices Inventory (SPI)"
+      ],
+      "ground_truth": [
+        "Supervisory Practices Inventory (SPI)",
+        "Situational Judgement Test - Customer Service"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 0.1,
+      "ndcg@k": 0.17723928678404774,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Data Analysis (New)",
+        "Verify Inductive Reasoning",
+        "Situational Judgement Test - Graduate",
+        "Verify Interactive - Deductive Reasoning",
+        "Graduate 8.0 Short Form",
+        "Verify Numerical Reasoning"
+      ],
+      "ground_truth": [
+        "Mechanical Comprehension",
+        "Verify Verbal Reasoning"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 1.0,
+      "ndcg@k": 0.6131471927654584,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Oracle (New)",
+        ".NET WPF (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Hibernate (New)",
+        "Scala (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a entry-level hiring manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "Verify Checking",
+        "Global Skills Development Report",
+        "Managerial & Professional Short Form 8.0",
+        "Verify Verbal Ability",
+        "Situational Judgement Test - Manager",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Situational Judgement Test - Customer Service",
+        "Situational Judgement Test - Manager"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 0.1111111111111111,
+      "ndcg@k": 0.18457569677956817,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a graduate engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Graduate 8.0 Short Form",
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "Verify Inductive Reasoning",
+        "Situational Judgement Test - Graduate",
+        "Verify Numerical Reasoning"
+      ],
+      "ground_truth": [
+        "English Language Assessment",
+        "React (New)"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 0.5,
+      "ndcg@k": 0.38685280723454163,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Verbal Reasoning",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation",
+        ".NET (New)",
+        "Technology Professional 8.0 - Short Form",
+        "Verify Numerical Ability",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        ".NET WPF (New)",
+        "Python (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Verbal Reasoning",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation",
+        ".NET (New)",
+        "Technology Professional 8.0 - Short Form",
+        "Verify Numerical Ability",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "JavaScript (New)",
+        "Microsoft Excel (Office 2019)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional data analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Data Analysis (New)",
+        "Verify Numerical Reasoning",
+        "Microsoft Excel (Office 2019)",
+        "Global Skills Development Report",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning",
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation"
+      ],
+      "ground_truth": [
+        "Data Analysis (New)",
+        "Microsoft PowerPoint (Office 2019)"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 1.0,
+      "ndcg@k": 0.6131471927654584,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Global Skills Development Report",
+        "Verify Calculation",
+        "Mechanical Comprehension",
+        "Verify Deductive Reasoning",
+        "Verify Inductive Reasoning",
+        "Verify Numerical Ability",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Checking"
+      ],
+      "ground_truth": [
+        "Automata - Fix the Code",
+        "Occupational Safety (Safety 7.1)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Data Analysis (New)",
+        "Verify Inductive Reasoning",
+        "Situational Judgement Test - Graduate",
+        "Verify Interactive - Deductive Reasoning",
+        "Graduate 8.0 Short Form",
+        "Verify Numerical Reasoning"
+      ],
+      "ground_truth": [
+        "Spatial Reasoning",
+        "Verify Numerical Ability"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a administrative engineer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "Verify Verbal Ability",
+        "Global Skills Development Report",
+        "Verify Checking",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning",
+        "Verify Numerical Reasoning"
+      ],
+      "ground_truth": [
+        "Microsoft Excel (Office 2019)",
+        "Java 8 (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Deductive Reasoning",
+        "Data Analysis (New)",
+        "Verify Inductive Reasoning",
+        "Situational Judgement Test - Graduate",
+        "Verify Interactive - Deductive Reasoning",
+        "Graduate 8.0 Short Form",
+        "Verify Numerical Reasoning"
+      ],
+      "ground_truth": [
+        "Mechanical Comprehension",
+        "Verify Interactive - Inductive Reasoning"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional software developer \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "English Language Assessment",
+        "Global Skills Development Report",
+        "Verify Verbal Reasoning",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation",
+        ".NET (New)",
+        "Technology Professional 8.0 - Short Form",
+        "Verify Numerical Ability",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        ".NET MVVM (New)",
+        "Automata Pro"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a graduate data analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Data Analysis (New)",
+        "Verify Numerical Reasoning",
+        "Verify Verbal Reasoning",
+        "Verify Deductive Reasoning",
+        "Global Skills Development Report",
+        "Verify Inductive Reasoning",
+        "English Language Assessment",
+        "SQL (New)",
+        "Verify Interactive - Deductive Reasoning",
+        "Microsoft Excel (Office 2019)"
+      ],
+      "ground_truth": [
+        "Data Analysis (New)",
+        "Angular (New)"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 1.0,
+      "ndcg@k": 0.6131471927654584,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a clerical hiring manager \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "Verify Checking",
+        "Verify Verbal Ability",
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Situational Judgement Test - Manager",
+        "Global Skills Development Report",
+        "Managerial & Professional Short Form 8.0",
+        "Verify Deductive Reasoning"
+      ],
+      "ground_truth": [
+        "Accounts Receivable Simulation (New)",
+        "Accounts Payable Simulation (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a clerical graduate analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Verify Verbal Reasoning",
+        "English Language Assessment",
+        "Verify Numerical Ability",
+        "Verify Calculation",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning",
+        "Verify Verbal Ability",
+        "Situational Judgement Test - Graduate",
+        "Data Analysis (New)",
+        "Global Skills Development Report"
+      ],
+      "ground_truth": [
+        "Verify Numerical Ability",
+        "Verify Numerical Reasoning"
+      ],
+      "precision@k": 0.1,
+      "recall@k": 0.5,
+      "mrr": 0.3333333333333333,
+      "ndcg@k": 0.3065735963827292,
+      "grounded_pct": 1.0
+    },
+    {
+      "query": "Hiring a professional data analyst \u00e2\u20ac\u201d what assessments should I use?",
+      "predictions": [
+        "Data Analysis (New)",
+        "Verify Numerical Reasoning",
+        "Microsoft Excel (Office 2019)",
+        "Global Skills Development Report",
+        "Verify Inductive Reasoning",
+        "Verify Deductive Reasoning",
+        "English Language Assessment",
+        "Verify Verbal Reasoning",
+        "Verify Interactive - Deductive Reasoning",
+        "Verify Calculation"
+      ],
+      "ground_truth": [
+        "Machine Learning (New)",
+        "HTML/CSS (New)"
+      ],
+      "precision@k": 0.0,
+      "recall@k": 0.0,
+      "mrr": 0.0,
+      "ndcg@k": 0.0,
+      "grounded_pct": 1.0
+    }
+  ],
+  "summary": {
+    "precision@k": 0.03,
+    "recall@k": 0.15,
+    "mrr": 0.11610052910052909,
+    "ndcg@k": 0.10147988828696518,
+    "grounded_pct": 1.0
+  }
+}
