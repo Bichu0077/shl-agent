@@ -16,8 +16,18 @@ from retriever import retriever
 
 # ── Groq setup ────────────────────────────────────────────────────────────────
 
-_client = Groq(api_key=os.environ["GROQ_API_KEY"])
+_client: Groq | None = None
 _MODEL = "llama-3.3-70b-versatile"
+
+
+def _get_client() -> Groq:
+    global _client
+    if _client is None:
+        api_key = os.getenv("GROQ_API_KEY")
+        if not api_key:
+            raise RuntimeError("GROQ_API_KEY is not set")
+        _client = Groq(api_key=api_key)
+    return _client
 
 
 # ── Prompts ───────────────────────────────────────────────────────────────────
@@ -211,7 +221,8 @@ def _call_groq(messages: list[dict], system: str) -> str:
     for m in messages:
         groq_messages.append({"role": m["role"], "content": m["content"]})
 
-    response = _client.chat.completions.create(
+    client = _get_client()
+    response = client.chat.completions.create(
         model=_MODEL,
         messages=groq_messages,
         temperature=0.2,
