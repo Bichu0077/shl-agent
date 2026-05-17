@@ -28,12 +28,7 @@ log = logging.getLogger(__name__)
 # ── Lifespan: warm up retriever at startup ────────────────────────────────────
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    log.info("Warming up retriever and embedding model...")
-    try:
-        retriever.load()
-        log.info("Retriever ready.")
-    except Exception as e:
-        log.error(f"Retriever load failed: {e}")
+    log.info("Starting without retriever warmup to stay within free-tier memory limits.")
     yield
     log.info("Shutting down.")
 
