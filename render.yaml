@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: shl-assessment-advisor
+    env: python
+    runtime: python-3.11.9
+    buildCommand: pip install -r requirements.txt
+    startCommand: bash start.sh
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false   # set this in Render dashboard
+    healthCheckPath: /health
+    autoDeploy: true
